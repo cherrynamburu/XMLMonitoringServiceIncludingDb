@@ -1,0 +1,42 @@
+<jobs>
+<job>
+<jobid>1</jobid>
+  <jobtitle>Developer</jobtitle>
+  <employer>First File</employer>
+  <period>	
+    <from>	
+      <date>
+        <month>Jan</month>
+        <year>2000</year>
+      </date>
+    </from>
+    <to>
+      <date>
+        <month>Jan</month>
+        <year>2001</year>
+      </date>
+    </to>
+  </period>
+  <description>Hoster Acme is fully profitional and flexible</description>
+</job>
+<job>
+<jobid>2</jobid>
+  <jobtitle>Designer</jobtitle>
+  <employer>Sculpture Acme, Inc.</employer>
+  <period>
+    <from>
+      <date>	
+        <month>Feb</month>
+        <year>2001</year>
+      </date>
+    </from>
+    <to>
+      <date>
+        <month>Feb</month>
+        <year>2001</year>
+      </date>
+    </to>
+  </period>
+  <description>Sculpture is one of the best designer companies out there</description>
+</job>
+</jobs>

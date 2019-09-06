@@ -1,0 +1,22 @@
+<job>
+  <jobid>3</jobid>
+  <jobtitle>Root_Left_Middle</jobtitle>
+  <employer>Root_Left_Middle Acme, Inc.</employer>
+  <period>
+    <from>
+      <date>
+        <month>March</month>
+        <year>2002</year>
+      </date>
+    </from>
+    <to>
+      <date>
+        <month>March</month>
+        <year>2003</year>
+      </date>
+    </to>
+  </period>
+  <description>
+    <para>This content is inside from <emphasis>Root_Left_Middle</emphasis> </para>
+  </description>
+</job>

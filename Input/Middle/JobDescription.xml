@@ -1,0 +1,22 @@
+<job>
+  <jobid>100</jobid>
+  <jobtitle>Root_Middle</jobtitle>
+  <employer>Root_Middle Acme, Inc.</employer>
+  <period>
+    <from>
+      <date>
+        <month>June</month>
+        <year>1992</year>
+      </date>
+    </from>
+    <to>
+      <date>
+        <month>August</month>
+        <year>1998</year>
+      </date>
+    </to>
+  </period>
+  <description>
+    <para>This content is inside from for a <emphasis>Root_Middle</emphasis> customer.</para>
+  </description>
+</job>

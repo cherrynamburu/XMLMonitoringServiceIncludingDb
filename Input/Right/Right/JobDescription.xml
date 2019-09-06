@@ -1,0 +1,22 @@
+<job>
+  <jobid>500</jobid>
+  <jobtitle>Manager</jobtitle>
+  <employer>Acme, Inc.</employer>
+  <period>
+    <from>
+      <date>
+        <month>Sep</month>
+        <year>1992</year>
+      </date>
+    </from>
+    <to>
+      <date>
+        <month>Aug</month>
+        <year>1998</year>
+      </date>
+    </to>
+  </period>
+  <description>
+    <para>Oversaw production of large magnets and rocket skates for a <emphasis>single</emphasis> customer.</para>
+  </description>
+</job>

@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\bin\Debug\XMLMonitoringService.exe.config
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\bin\Debug\XMLMonitoringService.exe
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\bin\Debug\XMLMonitoringService.pdb
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\obj\Debug\XMLMonitoringService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\obj\Debug\XMLMonitoringService.exe
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\obj\Debug\XMLMonitoringService.pdb
+C:\Users\USER\Desktop\XMLMonitoringService\XMLMonitoringService\XMLMonitoringService\obj\Debug\XMLMonitoringService.csprojAssemblyReference.cache
